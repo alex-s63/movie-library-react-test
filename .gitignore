@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# WebStorm files
+.idea
+
+# Build Files
+dist
